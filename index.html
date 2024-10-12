@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio de Matemática</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Desafio de Matemática!</h1>
+        <div id="question"></div>
+        <input type="number" id="answer" placeholder="Sua resposta">
+        <div class="progress-bar">
+            <div id="timer" class="progress"></div>
+        </div>
+        <div id="score">Pontuação: 0</div>
+    </div>
+    <div id="end-screen" class="hidden">
+        <h2>Fim de Jogo!</h2>
+        <p>Sua pontuação final é: <span id="final-score"></span></p>
+        <button id="restart-button">Reiniciar</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
