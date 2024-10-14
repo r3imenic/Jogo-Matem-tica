@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
-    background-image: url('mathematics.jpg');
+    background-image: url(mathematics.jpg);
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
