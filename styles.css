@@ -1,11 +1,6 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
-    background-image: url(mathematics.jpg)
-<<<<<<< HEAD
-    background-image: 
-=======
->>>>>>> 3d1040ab2d8b55c6b505b85de8d2681b99bd3dfa
     display: flex;
     justify-content: center;
     align-items: center;
